@@ -3,7 +3,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 import Home from "./Components/Home";
 import MyNavbar from "./Components/MyNavbar";
 import Footer from "./Components/Footer";
-import { HashRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import About from "./Components/About";
 import DetailsProduct from "./Components/DetailsProduct";
 
