@@ -2,6 +2,7 @@
   "name": "depiday1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AhmedHassan1241.github.io/Basic-E-commerce/settings/pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -42,6 +43,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "react-router-dom": "^6.26.2"
-  },
-  "homepage": "https://github.com/AhmedHassan1241/Basic-E-commerce.git"
+  }
 }
