@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/Basic-E-commerce/settings/pages/static/css/main.d221dc40.css",
-    "main.js": "/Basic-E-commerce/settings/pages/static/js/main.0782ce82.js",
+    "main.js": "/Basic-E-commerce/settings/pages/static/js/main.c8286352.js",
+    "static/media/hands-coffee-cup-apple.jpg": "/Basic-E-commerce/settings/pages/static/media/hands-coffee-cup-apple.8014557a9697c0fd0d75.jpg",
+    "static/media/1544124707023.jpeg": "/Basic-E-commerce/settings/pages/static/media/1544124707023.d5e446018960c8d9e506.jpeg",
+    "static/media/html_image_slider.jpg": "/Basic-E-commerce/settings/pages/static/media/html_image_slider.a23661bf74e4cfa7895a.jpg",
     "index.html": "/Basic-E-commerce/settings/pages/index.html",
     "main.d221dc40.css.map": "/Basic-E-commerce/settings/pages/static/css/main.d221dc40.css.map",
-    "main.0782ce82.js.map": "/Basic-E-commerce/settings/pages/static/js/main.0782ce82.js.map"
+    "main.c8286352.js.map": "/Basic-E-commerce/settings/pages/static/js/main.c8286352.js.map"
   },
   "entrypoints": [
     "static/css/main.d221dc40.css",
-    "static/js/main.0782ce82.js"
+    "static/js/main.c8286352.js"
   ]
 }
