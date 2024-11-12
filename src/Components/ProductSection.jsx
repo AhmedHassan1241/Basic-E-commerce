@@ -35,8 +35,8 @@ const getCategories= ()=>{
     <>
       <div className="container my-3">
       <button className="btn btn-info m-2" onClick={getCategories}>All</button>
-      {categories.map((cat)=>{
-        return <button className="btn btn-info m-2" onClick={()=>getCatergory(cat)}>{cat}</button>
+      {categories.map((cat,index)=>{
+        return <button key={index} className="btn btn-info m-2" onClick={()=>getCatergory(cat)}>{cat}</button>
       })}
         <div className="row">
           {products.map((product) => (
